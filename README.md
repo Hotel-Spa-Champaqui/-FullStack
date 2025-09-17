@@ -18,9 +18,9 @@ Repositorio principal de la organización colaborativa integrada por estudiantes
 
 | Categoría         | Herramientas / Tecnologías |
 |-------------------|----------------------------|
-| Frontend          | HTML5, CSS3, JavaScript    |
+| Frontend          | HTML5, CSS                 |
 | Backend           | PHP, MySQL, XAMPP          |
-| Servidor local    | Apache, Tomcat             |
+| Servidor local    | Apache                     |
 | Gestión de código | Git, GitHub                |
 | Organización      | Kanban, Issues, Milestones |
 | Documentación     | Wiki, README.md, Presentaciones |
